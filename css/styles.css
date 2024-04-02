@@ -95,7 +95,7 @@ img {
 }
 
 #banner {
-    background-image: url(./img/windmill.jpg);
+    background-image: url(../img/windmill.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     object-fit: cover;
